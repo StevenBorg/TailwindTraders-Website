@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/stborg/Tailwind/_apis/build/status/Website-CI?branchName=master)](https://dev.azure.com/stborg/Tailwind/_build/latest?definitionId=4&branchName=master)
+
 # Tailwind Traders Website
 
 ![](Documents/Images/Website.png)
